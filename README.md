@@ -1,7 +1,7 @@
 # AdSkipper-SkipTheIrrelevant
 
 Steps To Install the Extension
-1. Download the Zip File 
+1. Download the Zip File https://github.com/21dushyant/AdSkipper-SkipTheIrrelevant/blob/main/adskipper.zip 
 2. Extract the Zip File
 3. Open your Chrome Browser
 4. Go to Settings
